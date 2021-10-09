@@ -1039,6 +1039,11 @@ a {
   padding-bottom: 5rem;
   background-color: #ffffff;
 }
+.cid-sLnhmATy1k {
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+  background-color: #ffffff;
+}
 .cid-sLmQ4j7GDq {
   padding-top: 6rem;
   padding-bottom: 6rem;
@@ -1067,6 +1072,38 @@ a {
   width: 100%;
   object-fit: cover;
 }
+.cid-sLnfasnBmT {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background-color: #ffffff;
+}
+.cid-sLnfasnBmT .mbr-section-title,
+.cid-sLnfasnBmT .mbr-section-subtitle {
+  text-align: center;
+}
+.cid-sLnfasnBmT .cost {
+  word-break: normal;
+}
+.cid-sLnfasnBmT .card-wrapper {
+  margin-bottom: 2rem;
+  border-radius: 4px;
+  background: #fafafa;
+}
+.cid-sLnfasnBmT .card-wrapper .top-line {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+@media (min-width: 768px) {
+  .cid-sLnfasnBmT .card-wrapper {
+    padding: 2rem;
+  }
+}
+@media (max-width: 767px) {
+  .cid-sLnfasnBmT .card-wrapper {
+    padding: 1rem;
+  }
+}
 .cid-sLmQGaimXy {
   padding-top: 5rem;
   padding-bottom: 5rem;
@@ -1093,38 +1130,8 @@ a {
     padding: 3rem 1rem;
   }
 }
-.cid-sLmPUDrII6 {
-  padding-top: 6rem;
-  padding-bottom: 6rem;
-  background-color: #ffffff;
-}
-.cid-sLmPUDrII6 .mbr-iconfont {
-  font-size: 1.4rem !important;
-  font-family: 'Moririse2' !important;
-  color: #6592e6;
-  margin-left: 1rem;
-}
-.cid-sLmPUDrII6 .panel-group {
-  border: none;
-}
-.cid-sLmPUDrII6 .panel-title {
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-}
-.cid-sLmPUDrII6 .panel-body,
-.cid-sLmPUDrII6 .card-header {
-  padding: 1rem 0;
-}
-.cid-sLmPUDrII6 .panel-title-edit {
-  color: #000000;
-}
-.cid-sLmPUDrII6 .card .card-header {
-  background-color: transparent;
-  margin-bottom: 0;
-}
 .cid-s48P1Icc8J {
-  padding-top: 2rem;
+  padding-top: 0rem;
   padding-bottom: 2rem;
   background-color: #232323;
 }
@@ -1546,7 +1553,7 @@ a {
   color: #000000;
 }
 .cid-s48P1Icc8J {
-  padding-top: 2rem;
+  padding-top: 0rem;
   padding-bottom: 2rem;
   background-color: #232323;
 }
