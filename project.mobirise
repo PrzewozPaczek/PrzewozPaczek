@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Przewóz paczek",
-    "currentPage": "index.html",
+    "currentPage": "Polityka-prywatnosci.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -30,7 +30,8 @@
         "isScrollToTopButton": true
       },
       "additionalSetColors": [
-        "#111111"
+        "#111111",
+        "#424a4d"
       ]
     },
     "path": "@PROJECT_PATH@",
@@ -47,7 +48,7 @@
     "imageResize": true,
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/box-clipart-icon-1-128x131_1.png",
-    "mbrsiteDomain": "uxvtvcdasd",
+    "mbrsiteDomain": "3s64zggxce",
     "robotsSwitcher": false,
     "sitemapSwitcher": true,
     "sitemapSwitcherAuto": "on",
@@ -55,15 +56,15 @@
     "gdpr": false,
     "cookiesAlert": {
       "customDialogSelector": false,
-      "colorText": "#424a4d",
+      "colorText": "#111111",
       "colorBg": "#eaeff1",
-      "colorButton": "",
-      "colorLink": "#424a4d",
+      "colorButton": "#111111",
+      "colorLink": "#4479d9",
       "underlineLink": true,
       "opacity": "99",
       "opacityOverlay": "80",
-      "text": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>.",
-      "textButton": "Agree"
+      "text": "Używamy plików cookie, aby zapewnić Ci jak najlepsze wrażenia. Przeczytaj naszą\n <a href='Polityka-prywatnosci.html'>Polityka Cookie</a>.",
+      "textButton": "Zgadzam Się"
     }
   },
   "pages": {
