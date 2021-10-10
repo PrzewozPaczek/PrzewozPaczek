@@ -498,11 +498,11 @@
               "background-color": "@bg-value"
             },
             ".mbr-section-title": {
-              "color": "#fafafa",
+              "color": "#ff9966",
               "text-align": "left"
             },
             ".mbr-text, .mbr-section-btn": {
-              "color": "#ffffff"
+              "color": "#ff9966"
             }
           },
           "_name": "header1",
